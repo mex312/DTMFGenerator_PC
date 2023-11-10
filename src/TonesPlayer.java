@@ -33,7 +33,7 @@ public class TonesPlayer extends Thread {
     }
 
 
-    
+
     public void kill()
     {
         shouldPlay = false;

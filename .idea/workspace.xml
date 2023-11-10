@@ -9,22 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7db8146c-5594-4f14-b6e8-e0d7f79d2519" name="Changes" comment="V0.1">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/DTMFGenerator_PC_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DTMFGenerator_PC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DTMFGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TonesPlayer.java" afterDir="false" />
-    </list>
+    <list default="true" id="7db8146c-5594-4f14-b6e8-e0d7f79d2519" name="Changes" comment="V0.1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +56,15 @@
       <option name="presentableId" value="Default" />
       <updated>1699597397663</updated>
     </task>
+    <task id="LOCAL-00001" summary="V0.1">
+      <option name="closed" value="true" />
+      <created>1699614348575</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699614348575</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
