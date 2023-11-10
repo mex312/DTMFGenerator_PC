@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="DTMFGenerator_PC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DTMFGenerator_PC_jar</output-path>
+    <root id="root">
+      <element id="archive" name="DTMFGenerator_PC.jar">
+        <element id="module-output" name="DTMFGenerator_PC" />
+      </element>
+    </root>
+  </artifact>
+</component>
