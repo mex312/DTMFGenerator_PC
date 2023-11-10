@@ -12,5 +12,6 @@ public class Main {
         frame.setLocationRelativeTo(null);
         frame.pack();
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+        frame.setResizable(false);
     }
 }
